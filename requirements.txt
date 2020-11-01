@@ -1,0 +1,5 @@
+numpy==1.18.5
+opencv-python==4.4.0.44
+opencv-contrib-python==4.4.0.44
+# dlib==19.21.99
+# you want to install this from source with GPU support
